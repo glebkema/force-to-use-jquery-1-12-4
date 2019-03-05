@@ -5,4 +5,4 @@ Yes, I know, these are the core versions out of the box. But my customer uses an
 
 I've tried to install the "<a href="https://wordpress.org/plugins/version-control-for-jquery/">Version Control for jQuery</a>" plugin. But it turned out that the evil theme is stronger than this plugin too.
 
-This plugin overrides other settings, due to the higher priority in the hook. It can be used as a template for an emergency solution until a wiser solution is found.
+My plugin overrides other settings, due to the higher priority in the hook. It can be used as a template for an emergency solution until a wiser solution is found.
